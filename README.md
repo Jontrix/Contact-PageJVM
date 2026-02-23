@@ -1,4 +1,4 @@
-# Ejercicio 1 : Newsletter 
+# Ejercicio 3 : Contact Page 
 
 ---
 
@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Descripción
-Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribirse a un Newsletter. Este reto te ayudará a practicar tus conocimientos básicos de diseño web, incluyendo el uso de campos de entrada (input) y botones.
+En este reto deberás desarrollar una página de contacto utilizando HTML y CSS. El objetivo principal es practicar el uso de formularios, campos de entrada e inputs, así como aplicar un diseño responsivo y visualmente atractivo.
 
 
 ---
@@ -21,10 +21,8 @@ Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribi
 --
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: https://github.com/Jontrix/NewsletterJVM.git/
-
-Deploy: https://jontrix.github.io/NewsletterJVM/
----
+Repositorio en GitHub: https://github.com/Jontrix/Contact-PageJVM.git
+Deploy: 
 
 ## 📝 Reflexión
-Aprendí a mejorar el diseño de una página web usando HTML y CSS, enfocándome en que se vea más limpio, centrado y profesional. También entendí la importancia de detalles como los colores, las sombras y el uso correcto del centrado con flexbox para que todo se vea ordenado. Una de las dificultades que tuve fue que el estilo no se aplicaba correctamente, ya que el archivo CSS no estaba bien vinculado al HTML. Logré solucionarlo revisando la ruta del archivo y asegurándome de que estuviera en la misma carpeta o correctamente enlazado. Esto me ayudó a comprender mejor cómo funcionan la estructura y conexión entre HTML y CSS.
+Aprendí a construir una página de contacto funcional aplicando etiquetas de formularios e inputs en HTML para capturar datos de usuario de manera estructurada. El mayor desafío fue lograr que el diseño fuera responsivo, asegurando que los campos de entrada se adaptaran correctamente tanto a pantallas de escritorio como a dispositivos móviles mediante el uso de CSS. Solucioné los problemas de alineación utilizando Flexbox, lo que me permitió distribuir los elementos visualmente atractivos y mantener un orden claro. Este ejercicio reforzó mi capacidad para conectar la estructura técnica del formulario con una experiencia de usuario cómoda y moderna.
